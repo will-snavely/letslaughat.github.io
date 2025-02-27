@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Let&#39;s Laugh At</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Let&#39;s Laugh At</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Let&amp;rsquo;s Laugh At&amp;rdquo; is a recurring comedy show in Pittsburgh, Pennsylvania,&#xA;We bring various goofs, gaffs and pranks to stages around the city.&#xA;Do you read &amp;ldquo;The Family Circus&amp;rdquo; or &amp;ldquo;Marmaduke&amp;rdquo; in the paper? This is kind&#xA;of like that, but on a stage, live. If you like laughing, please check out&#xA;our events and shows.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s an example of a joke you might experience at one of our events.&#xA;Two people walk on stage. The first person asks, &amp;ldquo;When is the bus coming?&amp;rdquo;&#xA;The second person replies, &amp;ldquo;I&amp;rsquo;m the bus,&amp;rdquo; and turns into a bus. The&#xA;bus (who was a person just a moment ago) drives away. The first person&#xA;(who is still a person) considers the situation and says, &amp;ldquo;That was a&#xA;strange yet funny event.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>http://localhost:1313/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/</guid>
+      <description>&lt;div id=&#34;tixtree-wrapper&#34; class=&#34;w-100 w-100-ns&#34;&gt;&#xA;  &lt;script &#xA;    id=&#34;tixtree-script&#34; &#xA;    src=&#34;https://www.tixtree.com/widgets/tixtree.js&#34; &#xA;    data-type=&#34;events&#34; &#xA;    data-id=&#34;&#34;&gt;&#xA;  &lt;/script&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
